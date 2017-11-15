@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SealScan", "SealScan\SealScan.csproj", "{96F9985D-73AD-426A-910C-E66B94478BC5}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SealScanSetup", "SealScanSetup\SealScanSetup.vdproj", "{D2D75C5F-27E9-4072-AF3B-7F52A3167B7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96F9985D-73AD-426A-910C-E66B94478BC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96F9985D-73AD-426A-910C-E66B94478BC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96F9985D-73AD-426A-910C-E66B94478BC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96F9985D-73AD-426A-910C-E66B94478BC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2D75C5F-27E9-4072-AF3B-7F52A3167B7C}.Debug|Any CPU.ActiveCfg = Debug
+		{D2D75C5F-27E9-4072-AF3B-7F52A3167B7C}.Release|Any CPU.ActiveCfg = Release
+		{D2D75C5F-27E9-4072-AF3B-7F52A3167B7C}.Release|Any CPU.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
